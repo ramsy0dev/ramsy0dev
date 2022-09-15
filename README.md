@@ -6,6 +6,9 @@
 
 ## What am working on now 🤔?
 
+- I'm working on my start up project, it an android app that brings muslims together to share kndoledge about islam
+using posts... and read quran.
+
 <a href="https://github.com/Read-Lax/ReadLax"> 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Read-Lax&repo=ReadLax&theme=dracula">
 <a/>
