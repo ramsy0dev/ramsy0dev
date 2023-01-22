@@ -1,6 +1,6 @@
 ## ✋ Whoami ?
 
-* I'm ramsy, real name is mohamed said
+* I'm ramsy
 * 😇 I'm 16 years old (still a student) self-thaught programmer who is still learning
 * I'm intrested in Python, flutter, new tech and AI
 
