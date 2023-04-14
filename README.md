@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0ramsy0" alt="0ramsy0" /></a> </p>
 
-- 🔭 I’m currently working on [MusBleep](https://github.com/0RaMsY0/MusBleep) ```Private```, coming soon
+- 🔭 I’m currently working on [MusBleep](https://github.com/0RaMsY0/MusBleep)
 
 - 🌱 I’m currently learning **Flutter, Dart, FastAPI, C**
 
