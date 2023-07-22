@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0ramsy0" alt="0ramsy0" /></a> </p>
 
-- 🔭 I’m currently working on [MusBleep](https://github.com/0RaMsY0/MusBleep)
+- 🔭 I’m currently working on [MusBleep](https://github.com/ramsy0dev/MusBleep)
 
 - 🌱 I’m currently learning **Flutter, Dart, FastAPI, C**
 
-- 👨‍💻 All of my projects are available at [https://github.com/0RaMsY0?tab=repositories](https://github.com/0RaMsY0?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ramsy0dev?tab=repositories](https://github.com/0RaMsY0?tab=repositories)
 
 - 📫 How to reach me **0ramsy0@gmail.com**
 
