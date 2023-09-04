@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm ramsy</h1>
-<h3 align="center">self-taught developer from Galaxy</h3>
+<h1 align="center">Hi 👋, I'm ramsy0dev</h1>
+<h3 align="center">self-taught developer and cybersecurity beginner from Galaxy</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramsy0dev&label=Profile%20views&color=0e75b6&style=flat" alt="ramsy0dev" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramsy0dev" alt="ramsy0dev" /></a> </p>
 
-- 🔭 I’m currently working on [MusBleep](https://github.com/ramsy0dev/sleuth)
+- 🔭 I’m currently working on [Sleuth](https://github.com/ramsy0dev/sleuth)
 
 - 🌱 I’m currently learning **Flutter, Dart, FastAPI, C**
 
