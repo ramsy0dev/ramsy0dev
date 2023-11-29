@@ -1,4 +1,5 @@
-baseURL = '/'
+baseURL = 'https://ramsy0dev.github.io/ramsy0dev/'
+relativeURLs = true
 languageCode = 'en-us'
 title = 'ramsy0dev'
 theme = "poison"
