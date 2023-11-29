@@ -1,4 +1,4 @@
-baseURL = 'https://ramsy0dev.github.io/ramsy0dev/'
+baseURL = 'https://ramsy0dev.github.io/'
 languageCode = 'en-us'
 title = 'ramsy0dev'
 theme = "poison"
@@ -25,8 +25,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "About", URL = "/about/", HasChildren = false},
-        {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+        {Name = "About", URL = "/ramsy0dev/about/", HasChildren = false},
+        {Name = "Posts", URL = "/ramsy0dev/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
